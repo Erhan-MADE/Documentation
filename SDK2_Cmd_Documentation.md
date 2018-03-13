@@ -901,6 +901,6 @@ This software contains Autodesk® FBX® code developed by Autodesk, Inc. Copyrig
 
 <a name="website"></a>
 ## Website
-Please visit http://www.InstaLOD.io to stay up to date!
+Please visit http://www.InstaLOD.com to stay up to date!
 
 Thank you for using InstaLOD.
